@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "task01_stream_heads_or_tails.js",
   "bin": {
-    "hot": "task01_stream_heads_or_tails.js"
+    "hot": "task01_stream_heads_or_tails.js",
+    "agl": "task02_stream_analyze_game_logs.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

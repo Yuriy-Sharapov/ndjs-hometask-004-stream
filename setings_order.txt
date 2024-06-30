@@ -2,7 +2,8 @@
 1. В package.json добаить раздел
 
   "bin": {
-    "hot": "task01_stream_heads_or_tails.js"
+    "hot": "task01_stream_heads_or_tails.js",
+    "agl": "task02_stream_analyze_game_logs.js"
   },
 
 2. Первой строкой в файлах js прописать
